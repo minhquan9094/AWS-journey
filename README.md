@@ -15,8 +15,11 @@ When I use it?
 
 How can i use it?
 - Migration
-- Re-architecture
-- Lift and shift
+  + Lift and shift (Rehost)
+  + Refactor in the cloud
+  + Revise before migrating to the cloud
+  + Rebuild in the cloud
+  + Replace in the cloud
 
 ![image](https://user-images.githubusercontent.com/25337881/196213837-6f72ab3b-1897-464a-b03c-c602764c2311.png)
 
