@@ -14,4 +14,7 @@ https://explore.skillbuilder.aws/learn/catalog?ctldoc-catalog-0=l-_en
 
 - AWS Networking:
 https://aws.amazon.com/blogs/networking-and-content-delivery/introduction-to-network-transformation-on-aws-part-1/
+
 https://aws.amazon.com/blogs/networking-and-content-delivery/introduction-to-network-transformation-on-aws-part-2/
+
+https://000003.awsstudygroup.com/1-introduce/1.2-routetable/
