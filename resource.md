@@ -20,3 +20,6 @@ https://aws.amazon.com/blogs/networking-and-content-delivery/introduction-to-net
 https://aws.amazon.com/blogs/networking-and-content-delivery/introduction-to-network-transformation-on-aws-part-2/
 
 https://000003.awsstudygroup.com/1-introduce/1.2-routetable/
+
+
+https://cloudjourney.awsstudygroup.com/
