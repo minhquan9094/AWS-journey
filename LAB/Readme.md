@@ -7,7 +7,11 @@ https://beginaws.awsstudygroup.com/2-vpc-setup/1-create-vpc/5-build-simple-lab/
 ### Lab Rule:
 
 - Naming method for AWS resource: **lab_{resource}_name**
+
+
   Ex: 
+  
+  
     lab_vpc_quandm
     lab_ec2_01_quandm
     lab_ec2_02_quandm
