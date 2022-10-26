@@ -29,9 +29,14 @@ https://beginaws.awsstudygroup.com/2-vpc-setup/1-create-vpc/5-build-simple-lab/
 https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
 
 - VPC Classless inter-domain routing block using range: 10.0.0.0/8
+
+
   Ex: 
+  
     vpc_user1: 10.1.0.0/16
+    
     vpc_user2: 10.2.0.0/16
+    
     .....
     
     
