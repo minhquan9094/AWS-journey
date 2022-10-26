@@ -23,3 +23,7 @@ https://000003.awsstudygroup.com/1-introduce/1.2-routetable/
 
 
 https://cloudjourney.awsstudygroup.com/
+
+## LAB
+
+https://beginaws.awsstudygroup.com/2-vpc-setup/1-create-vpc/5-build-simple-lab/
